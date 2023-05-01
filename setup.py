@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 packages = ['api']
 
 requires = [
-    "Flask==1.1.2"
+    "Flask==2.3.2"
 ]
 test_requirements = [
     "pytest==5.4.2"
